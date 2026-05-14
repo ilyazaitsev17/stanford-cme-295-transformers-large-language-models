@@ -23,6 +23,9 @@
    применения ИИ в бизнесе, основатель [sdelaysebya.pro](https://sdelaysebya.pro), 
    автор канала «ИИ на практике».
    
+   Перевод выполнен с использованием AI-инструментов; терминология и
+   техническая точность прошли ручную вычитку переводчиком.
+   
    ## Оригинал
    
    [English version](../en/cheatsheet-transformers-large-language-models.pdf)
